@@ -12,7 +12,7 @@ The backend handles authentication, authorization, validation, task ownership ch
 
 Project walkthrough video:
 
-[Watch Demo Video](https://github.com/user-attachments/assets/replace-with-your-demo-video-link)
+[Watch Demo Video](https://www.loom.com/share/e09174aa1e9449c5853dc35a3359a53c)
 
 Recommended video flow:
 
