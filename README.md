@@ -8,6 +8,24 @@ The app solves a common problem in internal tools: users need to manage their ow
 
 The backend handles authentication, authorization, validation, task ownership checks, logging, caching, and API documentation. The frontend gives a simple interface for registration, login, and task CRUD operations.
 
+## Demo Video
+
+Project walkthrough video:
+
+[Watch Demo Video](https://github.com/user-attachments/assets/replace-with-your-demo-video-link)
+
+Recommended video flow:
+
+1. Show the project folder and README briefly.
+2. Open Swagger docs at `http://localhost:5000/api-docs`.
+3. Register a new user from the frontend.
+4. Login and open the protected dashboard.
+5. Create a task, edit it, and delete it.
+6. Show one protected API request in Postman.
+7. Mention that normal users can access only their own tasks, while admins can access all tasks.
+
+Recording notes are available in [docs/DEMO_VIDEO_GUIDE.md](docs/DEMO_VIDEO_GUIDE.md).
+
 ## Tech Stack
 
 Backend:
