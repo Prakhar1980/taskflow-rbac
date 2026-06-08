@@ -14,18 +14,6 @@ Project walkthrough video:
 
 [Watch Demo Video](https://www.loom.com/share/e09174aa1e9449c5853dc35a3359a53c)
 
-Recommended video flow:
-
-1. Show the project folder and README briefly.
-2. Open Swagger docs at `http://localhost:5000/api-docs`.
-3. Register a new user from the frontend.
-4. Login and open the protected dashboard.
-5. Create a task, edit it, and delete it.
-6. Show one protected API request in Postman.
-7. Mention that normal users can access only their own tasks, while admins can access all tasks.
-
-Recording notes are available in [docs/DEMO_VIDEO_GUIDE.md](docs/DEMO_VIDEO_GUIDE.md).
-
 ## Tech Stack
 
 Backend:
